@@ -2,7 +2,10 @@
 See my master thesis here: 
 http://ir.library.illinoisstate.edu/etd/518/
 
-This is the MATLAB source codes that solely written by me. 
+This is the MATLAB source codes that solely written by me.
+All the source files are written under MATLAB 2014a. 
+It has been observed that some of them cannot be run at MATLAB 2016a or MATLAB 2016b. 
+ 
 This part of code contains 3 parts: 
 part 1: how to calculate transition matrix through propensity matrix
 part 2: how to use SAA nested GA to estimate parameters in the beta distribution (tuned)
