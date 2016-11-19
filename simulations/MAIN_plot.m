@@ -1,4 +1,8 @@
 clc,clear
+% generate data
+
+DataGeneration
+
 %% Some notes for Hamming distance 
 % column compare the simulation
 % column 2 as a reference, as it is simulation under same optimization condition (should be the smallest, or close to the smallest)
@@ -25,3 +29,6 @@ medium = visual_and_hamming('medium')
 %% spread propensities
 
 spread = visual_and_hamming('spread')
+
+%% house keeping
+delete('*.mat')
