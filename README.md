@@ -1,5 +1,12 @@
 # On-the-Dynamics-of-Boolean-Gene-Regulatory-Networks-with-Stochasticity
-See my master thesis here: 
+
+To find out more about these codes, see 
+Akman, O., Comar, T., Harris, A. L., Hrozencik, D., \& Li, Y. "Dynamics of Gene Regulatory Networks with Stochastic Propensities." International Journal of Biomathematics (2018).
+
+
+
+
+Or you can also see my master thesis here: 
 http://ir.library.illinoisstate.edu/etd/518/
 
 This is the MATLAB source codes that solely written by me.
