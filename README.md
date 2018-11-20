@@ -3,7 +3,11 @@
 To find out more about these codes, see 
 Akman, O., Comar, T., Harris, A. L., Hrozencik, D., \& Li, Y. "Dynamics of Gene Regulatory Networks with Stochastic Propensities." International Journal of Biomathematics (2018).
 
+Abstract: 
+Gene regulatory networks (GRNs) control the production of proteins in cells. It is well-known that this process is not deterministic. Numerous studies employed a non- deterministic transition structure to model these networks. However, it is not realistic to expect state-to-state transition probabilities to remain constant throughout an organ- ism’s lifetime. In this work, we focus on modeling GRN state transition (edge) variability using an ever-changing set of propensities. We suspect that the source of this variation is due to internal noise at the molecular level and can be modeled by introducing addi- tional stochasticity into GRN models. We employ a beta distribution, whose parameters are estimated to capture the pattern inherent in edge behavior with minimum error. Additionally, we develop a method for obtaining propensities from a pre-determined network.
 
+
+Keywords: Molecular noise; network simulation; beta distribution.
 
 
 Or you can also see my master thesis here: 
